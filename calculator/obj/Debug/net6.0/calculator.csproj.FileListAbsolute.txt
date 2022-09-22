@@ -1,0 +1,15 @@
+D:\semester 5\sib\tugas\calculator\bin\Debug\net6.0\calculator.exe
+D:\semester 5\sib\tugas\calculator\bin\Debug\net6.0\calculator.deps.json
+D:\semester 5\sib\tugas\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+D:\semester 5\sib\tugas\calculator\bin\Debug\net6.0\calculator.dll
+D:\semester 5\sib\tugas\calculator\bin\Debug\net6.0\calculator.pdb
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.dll
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\refint\calculator.dll
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.pdb
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+D:\semester 5\sib\tugas\calculator\obj\Debug\net6.0\ref\calculator.dll
