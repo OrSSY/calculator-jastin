@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\semester 5\\sib\\tugas\\calculator\\calculator.csproj",
+      "projectUniqueName": "E:\\te\\calculator-jastin\\calculator\\calculator.csproj",
       "projectName": "calculator",
-      "projectPath": "D:\\semester 5\\sib\\tugas\\calculator\\calculator.csproj",
+      "projectPath": "E:\\te\\calculator-jastin\\calculator\\calculator.csproj",
       "packagesPath": "C:\\Users\\jastin\\.nuget\\packages\\",
-      "outputPath": "D:\\semester 5\\sib\\tugas\\calculator\\obj\\",
+      "outputPath": "E:\\te\\calculator-jastin\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jastin\\AppData\\Roaming\\NuGet\\NuGet.Config"
